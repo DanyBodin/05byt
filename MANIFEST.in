@@ -1,0 +1,3 @@
+graft 05byt
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  05byt/jupy *
